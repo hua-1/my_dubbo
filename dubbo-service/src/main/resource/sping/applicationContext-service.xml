@@ -8,6 +8,6 @@
 
     <dubbo:application name="service"/>
     <dubbo:registry address="zookeeper://127.0.0.1:2181"/>
-    <dubbo:annotation package="com.xiao.service.impl" />
+    <dubbo:annotation package="com.hua.service.impl" />
 
 </beans>

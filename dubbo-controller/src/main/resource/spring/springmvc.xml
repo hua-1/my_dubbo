@@ -19,6 +19,6 @@
     <!-- 引用dubbo 服务 -->
     <dubbo:application name="controller" />
     <dubbo:registry address="zookeeper://127.0.0.1:2181"/>
-    <dubbo:annotation package="com.xiao.controller" />
+    <dubbo:annotation package="com.hua.controller" />
 
 </beans>
